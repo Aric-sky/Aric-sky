@@ -1,4 +1,4 @@
-### Hi there, I'm [Anurag!](https://wangyuanqi.com/book) 👋
+### Hi there, I'm [Aric!](https://wangyuanqi.com/book) 👋
 
 <a href="https://codesandbox.io/u/Aric-sky">
   <img align="left" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/Aric-sky/Aric-sky/master/assets/codesandbox.svg" />
@@ -13,7 +13,7 @@
 <br />
 <br />
 
-Hi, I'm Anurag Hazra, a passionate self-taught frontEnd web developer from India.
+Hi, I'm Aric-sky, a passionate self-taught frontEnd web developer from China.
 
 - 🔭 I’m currently working on [renderless-components](https://github.com/timelessco/renderless-components)
 - 🌱 I’m currently learning Typescript
