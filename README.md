@@ -43,12 +43,12 @@ Hi, I'm Aric-sky, a passionate self-taught frontEnd web developer from China.
 </a>
 <a href="https://github.com/Aric-sky/github-readme-stats">
   <!-- Change the `https://github-readme-stats.anuraghazra1.vercel.app` to `https://github-readme-stats.anuraghazra1.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Aric-sky&layout=compact&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aric-sky&layout=compact&theme=material-palenight" />
 </a>
 
 <a href="https://github.com/Aric-sky/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Aric-sky&repo=github-readme-stats&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aric-sky&repo=github-readme-stats&theme=material-palenight" />
 </a>    
 <a href="https://github.com/Aric-sky/Aric-sky.github.io">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Aric-sky&repo=Aric-sky.github.io&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aric-sky&repo=Aric-sky.github.io&theme=material-palenight" />
 </a>
